@@ -127,7 +127,7 @@ Although these caused slight delays, both improvements made the final campaign s
 | :-: | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1  | **Security Awareness Poster** — a poster similar to what CyberRocks Inc.'s employees would see around the office. | ![Poster](https://github.com/Mikala-Troupe/CyberRocks-Inc-Phishing-Awareness-Campaign/blob/main/screenshots/Poster.png)                         |
 |  2  | **Phishing Red Flags** — example of a visual aid that would be used by CyberRocks to show employees what to watch out for.          | ![Red Flags](https://github.com/Mikala-Troupe/CyberRocks-Inc-Phishing-Awareness-Campaign/blob/main/screenshots/TrainingVideo.png)          |
-|  3  | **ADDIE Model** — common step-by-step process for creating training programs.         | ![ADDIE Model](https://github.com/Mikala-Troupe/CyberRocks-Inc-Phishing-Awareness-Campaign/blob/main/screenshots/ReportPhishButton.png) |
+|  3  | **ADDIE Model** — common step-by-step process for creating training programs.         | ![ADDIE Model](https://github.com/Mikala-Troupe/CyberRocks-Inc-Phishing-Awareness-Campaign-Lab/blob/5b54fdcb37559350f1d491d38c04c3b13a1d0de0/screenshots/ADDIE.jpg) |
 
 ---
 
